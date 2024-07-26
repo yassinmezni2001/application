@@ -1,1 +1,2 @@
 file A
+we did a change in a file a
